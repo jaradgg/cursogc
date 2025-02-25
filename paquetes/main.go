@@ -1,10 +1,6 @@
 package main
 
-import (
-	"crypto"
-
-	"github.com/jaradgg/go-course/003-packages/"
-)
+import "github.com/jaradgg/cursogc/paquetes"
 
 func main() {
 	cryptocurrency.ToBitcoin(10000)
