@@ -1,6 +1,6 @@
 package main
 
-import "github.com/jaradgg/cursogc/paquetes"
+import "github.com/jaradgg/paquetes/cryptocurrency/cryptocurrency"
 
 func main() {
 	cryptocurrency.ToBitcoin(10000)
